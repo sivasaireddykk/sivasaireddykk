@@ -20,7 +20,7 @@ Other Skills: RESTful APIs, Swagger, SOAP web services, Linux, Apache, React, We
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivasai-kondapareddy/)
 
 
-## Other Common Github Profile Sections
+
 👩‍💻 I'm currently working on Image Sharing React App
 
 🧠 I'm currently learning React
