@@ -25,9 +25,7 @@ Other Skills: RESTful APIs, Swagger, SOAP web services, Linux, Apache, React, We
 
 🧠 I'm currently learning React
 
-👯‍♀️ I'm looking to collaborate on Machine Learning Projects
-
-🤔 I'm looking for help with ML Projects
+👯‍♀️ I'm looking to collaborate on Web Development Projects
 
 💬 Ask me about Java Backend Developement
 
