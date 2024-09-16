@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am Kodanda SivaSaiReddy Kondapareddy, a passiona
 Languages: Python, Java
 
 Frameworks: Spring Boot, Spring Core, Hibernate
-Tools & Platforms: Docker, Kubernetes, Jira, Intellij, Maven, Git, AWS S3
+Tools & Platforms: Docker, Kubernetes, Jira, Intellij, Maven, Git, AWS Lambda
 
 Databases: MongoDB, Redis, MySQL, PL/SQL
 
