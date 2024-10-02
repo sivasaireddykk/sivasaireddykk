@@ -2,7 +2,7 @@
 ## 🚀 About Me
 Welcome to my GitHub profile! I am Kodanda SivaSaiReddy Kondapareddy, a passionate and dedicated software engineer with extensive experience in backend development, API integration, and automation. Currently based in Los Angeles, CA, I am pursuing a Master's in Computer Science from California State University Long Beach, where I also work as a Graduate Teaching Assistant.
 
-# Hi, I'm SivaSaiReddy KK! 👋
+# Hi, I'm  Kodanda SivaSaiReddy(Sai) Kondapareddy! 👋
 
 
 ## 🛠 Skills
