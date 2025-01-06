@@ -29,7 +29,7 @@ Other Skills: RESTful APIs, Swagger, SOAP web services, Linux, Apache, React, We
 
 💬 Ask me about Java Backend Developement
 
-📫 How to reach me... -- sivasai.kondapareddy@gmail.com
+📫 How to reach me... -- kodanda.kondapareddy@gmail.com
 
 😄 He/Him
 
